@@ -33,6 +33,7 @@ h3 {
   opacity: 0.5;
   letter-spacing: 2px;
 }
+/* this styling for joke element */
 
 .joke {
   font-size: 30px;
@@ -42,6 +43,7 @@ h3 {
   max-width: 600px;
 }
 
+/* this styling for button of the joke */
 .btn {
   background-color: #9f68e0;
   color: #fff;
@@ -52,6 +54,7 @@ h3 {
   font-size: 16px;
   cursor: pointer;
 }
+
 
 .btn:active {
   transform: scale(0.98);
