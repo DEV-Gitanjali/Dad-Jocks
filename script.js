@@ -1,3 +1,4 @@
+// this method capture all the element 
 const jokeEl = document.getElementById('joke')
 const jokeBtn = document.getElementById('jokeBtn')
 
